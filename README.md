@@ -1,5 +1,7 @@
 <<<<<HEAD<< 
-the fist change
+hello world
+
+this is good
 
 the second change
 
